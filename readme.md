@@ -1,6 +1,6 @@
 # get-elements [![Build Status](https://secure.travis-ci.org/johnotander/get-elements.png?branch=master)](https://travis-ci.org/johnotander/get-elements) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-Get HTML elements from a string
+Get the HTML elements from a string.
 
 ## Installation
 
