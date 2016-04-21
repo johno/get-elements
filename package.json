@@ -11,9 +11,15 @@
     "test": "ava"
   },
   "repository": "johnotander/get-elements",
-  "keywords": [],
+  "keywords": [
+    "get",
+    "html",
+    "element"
+  ],
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  },
   "devDependencies": {
     "ava": "*"
   }

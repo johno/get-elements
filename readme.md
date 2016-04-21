@@ -13,7 +13,7 @@ npm install --save get-elements
 ```javascript
 var getElements = require('get-elements')
 
-getElements()  // => true
+getElements('<ul><li><a href="#">Hello</a></li></ul>') // => ['ul', 'li', 'a']
 ```
 
 ## License
